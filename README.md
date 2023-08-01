@@ -2,7 +2,7 @@
 ########################################################################
 #### Proyecto: Abastecimiento de agua
 #### Documento: Armaje de base de datos
-#### Elaboración: Eco. Guallasamin Miño Andrea
+#### Elaboración: Econ. Guallasamin Miño Andrea
 ####              Ing. Guallasamin Miño Jonathan
 ########################################################################
 
